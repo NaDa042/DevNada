@@ -1,0 +1,6 @@
+﻿Build started at 11:51 AM...
+1>------ Build started: Project: PNada1, Configuration: Debug x64 ------
+1>PNada1.cpp
+1>PNada1.vcxproj -> C:\Users\BisanCo\source\repos\PNada1\x64\Debug\PNada1.exe
+========== Build: 1 succeeded, 0 failed, 0 up-to-date, 0 skipped ==========
+========== Build completed at 11:51 AM and took 01.821 seconds ==========
